@@ -1,6 +1,6 @@
-Heart Disease Data Analysis | Python EDA + Power BI Dashboard
+## Heart Disease Data Analysis | Python EDA + Power BI Dashboard
 
-Project Overview
+## Project Overview
 This project presents an end-to-end Exploratory Data Analysis (EDA) of the UCI Heart Disease dataset to identify patterns and key factors associated with heart disease. 
 The results are visualized through an interactive Power BI dashboard and are descriptive in nature, meaning they should not be used for clinical decision-making.
 
